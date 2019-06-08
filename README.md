@@ -4,7 +4,7 @@
 <ul>
 <li>Aşağıdakı linklərdən ASP MVC haqqında oxuyun:
 <ul>
-<li><a href="https://www.tutorialsteacher.com/mvc/asp.net-mvc-tutorials" rel="nofollow">https://www.tutorialsteacher.com/mvc/asp.net-mvc-tutorials</a> (View bölməsinə qədər oxuyun)</li>
+<li><a href="https://www.tutorialsteacher.com/mvc/asp.net-mvc-tutorials" rel="nofollow">https://www.tutorialsteacher.com/mvc/asp.net-mvc-tutorials</a></li>
 <li><a href="https://www.c-sharpcorner.com/article/different-types-of-action-results-in-asp-net-mvc/" rel="nofollow">https://www.c-sharpcorner.com/article/different-types-of-action-results-in-asp-net-mvc/</a></li>
 </ul>
 </li>

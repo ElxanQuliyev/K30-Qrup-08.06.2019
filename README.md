@@ -9,5 +9,5 @@
 </ul>
 </li>
 </ul>
-<p><em>Sabaha qədər. Uğurlar.</em></p>
+<p><em> Uğurlar.</em></p>
 </article>
